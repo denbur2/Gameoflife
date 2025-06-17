@@ -4,7 +4,9 @@ Kurz vorab: Für den Spielstart sind einige Anforderungen nötig:
 
 1. `sudo apt install libsdl2-mixer-2.0-0 libsdl2-mixer-dev` (da unser Spiel Hintergrundmusik enthält)
 
-2. Spielverständnis: [https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens](url)
+2. ./build/release/gameoflife
+
+3. Spielverständnis: [https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens](url)
 
 
 Allgemeine Informationen

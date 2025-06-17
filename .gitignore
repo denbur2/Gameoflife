@@ -1,0 +1,9 @@
+*.out
+
+*.o
+*.gcda
+*.gcno
+*.html
+*.css
+html
+latex
